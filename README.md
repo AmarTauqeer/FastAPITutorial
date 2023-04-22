@@ -1,6 +1,4 @@
-# Automated Contracting Tool Improved with SHACL and Licenses
-
-Automated Contracting Tool, a component of smashHit. smashHit is a Horizon 2020 project with the primary objective of creating a secure and trustworthy data-sharing platform with a focus on consent and contract management in a distributed environment such as the automotiveindustry, insurance and smart cities following GDPR.
+# Flask, FastAPI, and React CRUD demonstration
 
 ## Software Requirements
 
